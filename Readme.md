@@ -57,7 +57,10 @@
 
 ## 質問箱
 
-issueにどしどし投稿してください．ただし音に関する質問に限定します．
+[Discussion#Q&A](https://github.com/helmenov/lecture_aae/discussions/new?category=q-a) にどしどし投稿してください．ただし音に関する質問に限定します．
+
+短く私からコメントで答えますが，よい話題については，講義でとりあげます．
+
 授業前日までに取り上げる質問を発表します．
 
 ## 成績評価
