@@ -18,7 +18,7 @@
 
 ## 質問箱
 
-[Discussion#Q&A](https://github.com/helmenov/lecture_aae/discussions/new?category=q-a) にどしどし投稿してください．ただし音に関する質問に限定します．
+[Discussion#Q&A](https://github.com/helmenov/lecture_aae/discussions/categories/q-a) にどしどし投稿してください．ただし音に関する質問に限定します．
 
 短く私からコメントで答えますが，よい話題については，講義でとりあげます．
 
